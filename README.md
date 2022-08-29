@@ -37,3 +37,7 @@ Desenvolver um site de e-commerce no qual os alunos possam acessar conteúdos di
 #### Descrição do projeto -
 O projeto tinha como objetivo a criação de um site de venda de conteúdos didáticos voltado para a área da tecnologia. O trabalho visava a interação dos alunos com o cliente, no qual os mesmos possuíam acesso as regras do projeto que foram definidas pelo cliente, para assim atender suas demandas e necessidades.
 
+### Em 2021-1
+
+#### *Parceiro Acadêmico: GSW*
+Evo
