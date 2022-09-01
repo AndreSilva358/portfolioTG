@@ -25,10 +25,9 @@ Desenvolver um site de e-commerce no qual os alunos pudessem acessar conteúdos 
 
 ## Solução
 <p align="justify">
+   Para isso, elaboramos um site utilizando técnicas de usuabilidade e responsividade, para que independentemente de qual dispositivo realiza o acesso a ele, a performance seja sempre a mesma. Além disso, optamos por um design moderno e minimalista, sendo azul e branco as cores predominantes, já que estão relacionadas a educação.
 </p>
 
-### Hardware
-
-Não houve hardware envolvido neste projeto.
-
 ### Site de Material Didático
+
+
