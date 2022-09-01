@@ -5,8 +5,6 @@
         - [Empresa](#empresa)
         - [Problema](#problema)
         - [Solução](#solução)
-            - [Hardware](#hardware)
-            - [Software](#aplicativo-mobile)
         - [Tecnologias utilizadas](#tecnologias-utilizadas)
         - [Contribuições Pessoais](#contribuições-pessoais)
             - [Hard Skills](#hard-skills)
@@ -28,6 +26,18 @@ Desenvolver um site de e-commerce no qual os alunos pudessem acessar conteúdos 
    Para isso, elaboramos um site utilizando técnicas de usuabilidade e responsividade, para que independentemente de qual dispositivo realiza o acesso a ele, a performance seja sempre a mesma. Além disso, optamos por um design moderno e minimalista, sendo azul e branco as cores predominantes, já que estão relacionadas a educação.
 </p>
 
-### Site de Material Didático
-
-
+## Tecnologias Utilizadas
+-HTML5 
+Linguagem de programação.
+-CSS3
+Linguagem de folhas de estilos.
+-JavaScript
+Linguagem de programação.
+-Bootstrap
+Framework web
+-PHP
+Linguagem de script
+-MySQL
+Sistema de gerenciamento de banco de dados
+-CamStudio
+Programa para edição e gravação de vídeos
