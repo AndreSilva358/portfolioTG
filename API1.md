@@ -41,3 +41,22 @@ Linguagem de script
 Sistema de gerenciamento de banco de dados
 -CamStudio
 Programa para edição e gravação de vídeos
+
+## Contribuições Pessoais
+
+### Hard Skills
+- HTML5, CSS3: Sei fazer com ajuda.
+- Python: Sei fazer com autonomia.
+- Javascript: Sei fazer com autonomia.
+
+
+### Soft Skills
+- Proatividade
+<p align="justify">
+    Percebi que poderíamos ter dificuldades em relação ao desenvolvimento dos materiais didáticos, especialmente no que dizia respeito ao material de inglês, que é algo que domino. Portanto, me ofereci para formular o material em questão, além de gravar as videoaulas necessárias para o site.
+</p>
+
+- Trabalho em equipe
+<p align="justify">
+    Quando um membro da equipe começou a ter dificuldades, me ofereci para ajudá-lo, levando em consideração o problema em questão eu estava confiante de que não haveriam problemas.    
+</p>
