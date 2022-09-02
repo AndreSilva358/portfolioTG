@@ -5,14 +5,14 @@
         - [Empresa](#empresa)
         - [Problema](#problema)
         - [Solução](#solução)
-        - Site (#site)
+        - [Site](#site)
         - [Tecnologias utilizadas](#tecnologias-utilizadas)
         - [Contribuições Pessoais](#contribuições-pessoais)
             - [Hard Skills](#hard-skills)
             - [Soft Skills](#soft-skills)
 
 # Em 2020-2 (CyberMind) 1º Semestre
-[Github Folconn](https://github.com/AndreSilva358/api-cybermind)
+[Github Cyber Mind](https://github.com/AndreSilva358/api-cybermind)
 
 ## Empresa
 <p align="justify">
@@ -29,6 +29,9 @@ Desenvolver um site de e-commerce no qual os alunos pudessem acessar conteúdos 
 </p>
 
 ### Site
+<p align="center">
+    <img src="./img/api1/site-cybermind.jpg" alt="pagina site" height="500" />
+</p>
 
 
 
