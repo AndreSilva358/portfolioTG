@@ -36,19 +36,19 @@ Desenvolver um site de e-commerce no qual os alunos pudessem acessar conteúdos 
 
 
 ## Tecnologias Utilizadas
--HTML5 
+- HTML5  \
 Linguagem de programação.
--CSS3
+- CSS3 \
 Linguagem de folhas de estilos.
--JavaScript
+- JavaScript \
 Linguagem de programação.
--Bootstrap
+- Bootstrap \
 Framework web
--PHP
-Linguagem de script
--MySQL
+- PHP  \
+Linguagem de programação.
+- MySQL \
 Sistema de gerenciamento de banco de dados
--CamStudio
+- CamStudio \
 Programa para edição e gravação de vídeos
 
 ## Contribuições Pessoais
