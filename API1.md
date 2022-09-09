@@ -36,26 +36,29 @@ Desenvolver um site de e-commerce no qual os alunos pudessem acessar conteúdos 
 
 
 ## Tecnologias Utilizadas
+Frontend:
 - HTML5  \
-Linguagem de programação.
+Para o desenvolvimento do website.
 - CSS3 \
-Linguagem de folhas de estilos.
+Para o desenvolvimento do website.
 - JavaScript \
 Linguagem de programação.
 - Bootstrap \
-Framework web
+Utilizado para realizar o desenvolvimento web
+
+Backend:
 - PHP  \
-Linguagem de programação.
+Integração com o banco de dados
 - MySQL \
-Sistema de gerenciamento de banco de dados
+Utilizado para o gerenciamento de banco de dados
 - CamStudio \
-Programa para edição e gravação de vídeos
+Utilizado para edição e gravação de vídeos
 
 ## Contribuições Pessoais
 
 ### Hard Skills
-- HTML5, CSS3: Sei fazer com ajuda.
-- Python: Sei fazer com autonomia.
+- HTML5, CSS3: Sei fazer com autonomia.
+- Python: Sei fazer com ajuda.
 - Javascript: Sei fazer com autonomia.
 
 
