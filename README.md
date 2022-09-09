@@ -15,7 +15,7 @@
 ## Introdução  
 <div>
 	<img src="/img/pfp.jpg" alt="Foto de perfil" width=150 height=150 />
-	<p>Estudante do 5º período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal.</p>
+	<p>Sou estudante do 5º período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal. Já participei de uma iniciação científica com duração de um ano, realizei alguns cursos sobre data science, mongodb e outras tecnologias.</p>
 </div>
 
 ## Escolaridade
