@@ -23,7 +23,7 @@
 Em 2018 eu me formei no ensino médio na escola Elo Educacional, lá onde tive meu primeiro contato com programação, apesar de ter sido bem breve em apenas algumas poucas aulas de física. 
 </p>
 <p align="justify">
-Após me formar em 2018, prestei vestibular durante dois anos, entrando na Fatec no segundo semestre de 2020. Meu objetivo era aprender sobre o mundo da programção, algo que praticamente não havia conhecimento algum sobre. Os primeiros semestres foram algo bem diferente para mim, visto que meus conhecimentos sobre programação eram nulos, tecnologias e linguagens novas que não havia visto, além do modelo de projetos API (Aprendizagem por Projetos Integrados), em que todo semestre formávamos grupos trabalhando em uma aplicação para resolver problemas de clientes reais (Empresas associadas a Fatec), o que me auxiliou a desenvolver minhas soft skills, e utilizar na prática os meios de organização de projeto em grupo utilizados na área.
+Após me formar em 2018, prestei vestibular durante dois anos, entrando na Fatec no segundo semestre de 2020. Meu objetivo era aprender sobre o mundo da programção, algo que praticamente não havia conhecimento algum sobre. Os primeiros semestres representaram uma experiência nova para mim. Tendo em vista que meus conhecimentos sobre programação eram nulos. Além disso tinham tecnologias e linguagens novas que não havia visto, além do modelo de projetos API (Aprendizagem por Projetos Integrados), em que todo semestre formávamos grupos trabalhando em uma aplicação para resolver problemas de clientes reais (Empresas associadas a Fatec). Essa estrutura de projetos me auxiliou a desenvolver minhas soft skills, e usar na prática os meios de organização de projeto em grupo utilizados na área.
 </p>
 
 ### Em 2020-2 (Cyber Mind)
@@ -35,3 +35,14 @@ Após me formar em 2018, prestei vestibular durante dois anos, entrando na Fatec
 
 #### *Parceiro Acadêmico: GSW*
 Evo
+
+# Principais Conhecimentos
+
+| Ferramenta | Nível |
+| --------- | -------- |
+| HTML | Intermediário |
+| CSS | Básico |
+| Javascript | Intermediário |
+| React Native| Intermediário |
+| Typescript | Básico |
+| Python | Básico |
