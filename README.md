@@ -12,6 +12,10 @@
 
 # André Silva
 
+##Contatos:
+E-mail: andresilva01@protonmail.com \
+LinkedIn: [Link](https://www.linkedin.com/in/carolina-margiotti-703897193/)
+
 ## Introdução  
 <div>
 	<img src="/img/pfp.jpg" alt="Foto de perfil" width=150 height=150 />
