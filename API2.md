@@ -33,7 +33,7 @@ Desenvolver uma aplicação para a empresa, que deseja visualizar os status dos 
 
 </p>
 
-### Site
+### Aplicação
 /placeholder/
 
 
@@ -50,10 +50,20 @@ Ferramenta para desenvolvimento do backend, utilizado para rodar o servidor Node
 
 ## Contribuições Pessoais
 
+Estruturei os wireframes e dados mockados, auxiliei na prototipagem e na documentação.
+
 ### Hard Skills
 - ReactJS: Sei fazer com autonomia.
 - TypeScript: Sei fazer com ajuda.
 
 ### Soft Skills
-/placeholder/
+- Visão geral:
+<p align="justify">
+Minha equipe não realizava uma boa divisão de tarefas, ao perceber isso tentei abordar o assunto.
+</p>
+
+- Empatia:
+<p align="justify">
+Perguntava se havia algo que poderia ser feito em relação as tarefas para auxiliar os colegas.
+</p>
 
