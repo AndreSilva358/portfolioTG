@@ -16,7 +16,7 @@
 
 ## Empresa
 <p align="justify">
-No segundo semestre a equipe parceira foi a GSW Soluções Integradas.
+No segundo semestre a equipe parceira foi a GSW Soluções Integradas, uma empresa que fornece produtos de software para gestão empresarial, com o intuito de auxiliar seus clientes a reduzirem custos e aumentarem a produtividade nos processos do dia a dia por meio de um melhor controle de suas atividades.
 
 
 
