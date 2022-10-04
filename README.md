@@ -38,7 +38,7 @@ Após me formar em 2018, prestei vestibular durante dois anos, entrando na Fatec
 ### Em 2021-1
 
 #### *Parceiro Acadêmico: GSW*
-Evo
+- [Cyber Mind](API2.md)
 
 # Principais Conhecimentos
 
