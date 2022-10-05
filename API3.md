@@ -50,3 +50,13 @@ Framework Java.
 - MySQL \
 Banco de dados.
 
+## Contribuições Pessoais
+
+Estruturei a parte de pipeline, montei toda a documentação do projeto e auxiliei em algumas partes do código.
+
+### Hard Skills
+- HTML5, CSS3: Sei fazer com autonomia.
+- Java: Sei fazer com ajuda.
+- Spring: Sei fazer com ajuda.
+
+### Soft Skills
