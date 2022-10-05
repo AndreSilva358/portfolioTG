@@ -40,6 +40,11 @@ Após me formar em 2018, prestei vestibular durante dois anos, entrando na Fatec
 #### *Parceiro Acadêmico: GSW*
 - [Cyber Mind](API2.md)
 
+### Em 2021-2
+
+#### *Parceiro Acadêmico: IONIC Health*
+- [Cpusfatec](API3.md)
+
 # Principais Conhecimentos
 
 | Ferramenta | Nível |
