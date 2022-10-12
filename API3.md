@@ -31,7 +31,17 @@ Desenvolvimento de um CRM de fácil visualização, que armazenasse as informaç
 </p>
 
 ### Aplicação
-/placeholder/
+<p align="center">
+    <img src="./img/api3/VISUAL HOME.png" alt="pagina site" height="500" />
+</p>
+
+<p align="center">
+    <img src="./img/api3/VISUAL CADASTRO.png" alt="pagina site" height="500" />
+</p>
+
+<p align="center">
+    <img src="./img/api3/VISUAL LISTA.png" alt="pagina site" height="500" />
+</p>
 
 ## Tecnologias Utilizadas
 Frontend:
