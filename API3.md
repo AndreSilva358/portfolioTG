@@ -43,6 +43,14 @@ Desenvolvimento de um CRM de fácil visualização, que armazenasse as informaç
     <img src="./img/api3/VISUAL LISTA.png" alt="pagina site" height="500" />
 </p>
 
+<p align="center">
+    <img src="./img/api3/VISUAL PIPE.png" alt="pagina site" height="500" />
+</p>
+
+<p align="center">
+    <img src="./img/api3/VISUAL IMPORTAÇÃO.png" alt="pagina site" height="500" />
+</p>
+
 ## Tecnologias Utilizadas
 Frontend:
 - HTML5  \
@@ -62,7 +70,7 @@ Banco de dados.
 
 ## Contribuições Pessoais
 
-Estruturei a parte de pipeline, montei toda a documentação do projeto e auxiliei em algumas partes do código.
+Estruturei a parte de pipeline e seu gráfico, auxiliei na parte referente ao cadastro e configurei a parte de lista de clientes. Além disso, montei toda a documentação do projeto e auxiliei em algumas partes do código.
 
 ### Hard Skills
 - HTML5, CSS3: Sei fazer com autonomia.
