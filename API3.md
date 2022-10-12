@@ -78,3 +78,12 @@ Estruturei a parte de pipeline e seu gráfico, auxiliei na parte referente ao ca
 - Spring: Sei fazer com ajuda.
 
 ### Soft Skills
+- Trabalho em equipe
+<p align="justify">
+    Neste API estive em contato constante com os outros membros no desenvolvimento do projeto, muitas vezes os ajudando com suas tarefas.
+</p>
+
+- Proatividade
+<p align="justify">
+    Um dos membros da equipe não estava entregando as tarefas e eventualmente optamos por demiti-lo. Fui proativo e me disponibilizei para fazer a documentação do projeto, que era responsabilidade dele até aquele momento.
+</p>
