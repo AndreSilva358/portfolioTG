@@ -50,7 +50,7 @@ Ferramenta para desenvolvimento do backend, utilizado para rodar o servidor Node
 
 ## Contribuições Pessoais
 
-Estruturei os wireframes e dados mockados, auxiliei na prototipagem e na documentação.
+Estruturei os wireframes dos projetos e dos colaboradores da plataforma, elaborei os dados mockados, configurei a parte de status das tarefas, auxiliei na prototipagem das páginas, além de auxiliar na documentação.
 
 ### Hard Skills
 - ReactJS: Sei fazer com autonomia.
@@ -59,11 +59,11 @@ Estruturei os wireframes e dados mockados, auxiliei na prototipagem e na documen
 ### Soft Skills
 - Visão geral:
 <p align="justify">
-Minha equipe não realizava uma boa divisão de tarefas, ao perceber isso tentei abordar o assunto.
+Minha equipe não realizava uma boa divisão de tarefas, ao perceber isso tentei abordar o assunto para que pudéssemos fazer algo a respeito
 </p>
 
 - Empatia:
 <p align="justify">
-Perguntava se havia algo que poderia ser feito em relação as tarefas para auxiliar os colegas.
+Perguntava se havia algo que poderia ser feito em relação as tarefas para auxiliar os colegas na conclusão de tarefas.
 </p>
 
