@@ -12,7 +12,7 @@
 
 # André Silva
 
-##Contatos:
+## Contatos:
 E-mail: andresilva01@protonmail.com \
 LinkedIn: [Link](https://www.linkedin.com/in/carolina-margiotti-703897193/)
 
@@ -38,7 +38,7 @@ Após me formar em 2018, prestei vestibular durante dois anos, entrando na Fatec
 ### Em 2021-1
 
 #### *Parceiro Acadêmico: GSW*
-- [Cyber Mind](API2.md)
+- [EVO](API2.md)
 
 ### Em 2021-2
 
