@@ -60,7 +60,7 @@ Para o desenvolvimento do website.
 - CSS3 \
 Para o desenvolvimento do website.
 - Bootstrap \
-Utilizado para realizar o desenvolvimento web.
+Utilizado no desenvolvimento web devido ao seus templates para tipografia, formulários, botões, entre outros, o que permite uma personalização fácil para o cliente.
 
 Backend:
 - Java  \
