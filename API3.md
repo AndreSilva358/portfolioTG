@@ -22,7 +22,9 @@ No terceiro semestre a equipe parceira foi a IONIC Health, uma empresa especiali
 
 ## Problema
 <p align="justify">
-Desenvolver um CRUD avançado web com requisitos não funcionais, levando em conta a Arquitetura da Solução e Ambiente de homologação com capacidade limitada para o cliente.
+Organizar o processo comercial da empresa através de uma plataforma que fornecesse suporte às áreas de vendas e área de negócios da empresa. A plataforma web deveria realizar a organização dos contatos, a gestão de pipeline, o monitoramento e acompanhamento de clientes, além de possuir um layout de fácil personalização.
+
+
 </p>
 
 ## Solução
