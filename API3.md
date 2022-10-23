@@ -56,9 +56,9 @@ Desenvolvimento de um CRM de fácil visualização, que armazenasse as informaç
 ## Tecnologias Utilizadas
 Frontend:
 - HTML5  \
-Para o desenvolvimento do website.
+Utilizado para o desenvolvimento do website.
 - CSS3 \
-Para o desenvolvimento do website.
+Utilizado para estilizar páginas aplicando estilos, como cores, margens, formas
 - Bootstrap \
 Utilizado no desenvolvimento web devido ao seus templates para tipografia, formulários, botões, entre outros, o que permite uma personalização fácil para o cliente.
 
@@ -66,9 +66,9 @@ Backend:
 - Java  \
 Linguagem de programação.
 - Spring \
-Framework Java.
+Framework Java, utilizado para facilitar o processo em aplicações Java, ajuda os desenvolvedores a criarem aplicativos que são apenas executam.
 - MySQL \
-Banco de dados.
+Sistema de gerenciamento de banco de dados.
 
 ## Contribuições Pessoais
 
