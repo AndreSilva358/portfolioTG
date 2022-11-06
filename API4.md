@@ -52,7 +52,7 @@ Sistema de gerenciamento de banco de dados.
 
 ## Contribuições Pessoais
 
-Estruturei a parte de pipeline e seu gráfico, auxiliei na parte referente ao cadastro e configurei a parte de lista de clientes. Além disso, montei toda a documentação do projeto e auxiliei em algumas partes do código.
+Fiquei responsável pela criação da tela do mapa, pela integração da API do Google Maps, e pelas apresentações, além de auxiliar na prototipação das telas da aplicação no figma.
 
 ### Hard Skills
 - Figma: Sei fazer com autonomia.
