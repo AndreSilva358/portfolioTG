@@ -50,6 +50,10 @@ Após me formar em 2018, prestei vestibular durante dois anos, entrando na Fatec
 #### *Parceiro Acadêmico: Visiona*
 - [Nerojet](API4.md)
 
+### Em 2022-2
+
+#### *Parceiro Acadêmico: Fatec*
+- [Nox](API5.md)
 
 # Principais Conhecimentos
 
