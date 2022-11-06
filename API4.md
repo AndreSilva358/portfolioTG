@@ -62,3 +62,12 @@ Fiquei responsável pela criação da tela do mapa, pela integração da API do 
 - SQLite: Sei fazer com ajuda.
 
 ### Soft Skills
+- Trabalho em equipe:
+<p align="justify">
+Foi necessário distribuir bem as tarefas para que todos da equipe pudessem contribuir de alguma forma, e auxiliar uns aos outros para realizar as entregas, tendo em vista que nem todos dominavam certas tecnologias.
+</p>
+
+- Determinação:
+<p align="justify">
+O semestre demandou bastante, e certos momentos foram consideravelmente difíceis, fazendo-se assim necessária determinação para encarar os desafios.
+</p>
