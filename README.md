@@ -45,6 +45,12 @@ Após me formar em 2018, prestei vestibular durante dois anos, entrando na Fatec
 #### *Parceiro Acadêmico: IONIC Health*
 - [Cpusfatec](API3.md)
 
+### Em 2022-1
+
+#### *Parceiro Acadêmico: Visiona*
+- [Nerojet](API4.md)
+
+
 # Principais Conhecimentos
 
 | Ferramenta | Nível |
