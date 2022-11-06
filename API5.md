@@ -33,7 +33,13 @@ Criação de uma aplicação mobile para coleta de dados públicos, de acordo co
 </p>
 
 ### Aplicação
-*placeholder*
+<p> 
+<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/AppCriandoOcorrencia.gif" alt="Demonstração do projeto"/>
+
+
+<p> 
+<img src="https://github.com/Jonathan-Assis/API-5-OP-2022-2/blob/main/Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%202/Imagens/AppEditarPerfilExcluirConta.gif" alt="Demonstração do projeto"/>
+
 
 ## Tecnologias Utilizadas
 Frontend:
