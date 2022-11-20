@@ -56,7 +56,7 @@ Banco de dados não relacional.
 
 ## Contribuições Pessoais
 
-Fiquei responsável pela prototipação das telas da aplicação no Figma, pelo levantamento de requisitos e definição das tarefas a serem realizadas, além de comunicação constante com o cliente, criação dos termos de uso, pelas apresentações.
+Fiquei responsável pela prototipação das telas da aplicação no Figma, pelo levantamento de requisitos e definição das tarefas a serem realizadas, pela tela de reportar ocorrência e pela página de detalhes da ocorrência, além de comunicação constante com o cliente, criação dos termos de uso e das apresentações.
 
 ### Hard Skills
 - Figma: Sei fazer com autonomia.
