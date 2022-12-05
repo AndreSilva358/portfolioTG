@@ -46,13 +46,13 @@ Frontend:
 - React Native  \
 Utilizado para o desenvolvimento do aplicativo de forma multiplataforma.
 - Javascript \
-Linguagem de programação.
+Linguagem de programação utilizada para realizar o desenvolvimento do código da aplicação.
 
 Backend:
 - NodeJs  \
-Interpretador de JavaScript.
+Utilizado para o desenvolvimento do backend.
 - MongoDB \
-Banco de dados não relacional.
+Foi utilizado como banco de dados não relacional do projeto.
 
 ## Contribuições Pessoais
 
