@@ -42,17 +42,17 @@ Frontend:
 - React Native  \
 Utilizado para o desenvolvimento do aplicativo de forma multiplataforma.
 - Javascript \
-Linguagem de programação.
+Linguagem de programação utilizada para realizar o desenvolvimento do código da aplicação.
 
 Backend:
 - PostgreSQL  \
-Sistema de gerenciamento de banco de dados.
+Foi utilizado como banco de dados.
 - SQLite \
-Sistema de gerenciamento de banco de dados.
+Foi utilizado como banco de dados.
 
 ## Contribuições Pessoais
 
-Fiquei responsável pela criação da tela do mapa, pela integração da API do Google Maps, e pelas apresentações, além de auxiliar na prototipação das telas da aplicação no figma.
+Fiquei responsável pela criação da tela do mapa com o uso de Javascript, pela integração da API do Google Maps, e pelas apresentações, além de auxiliar na prototipação das telas da aplicação no figma.
 
 ### Hard Skills
 - Figma: Sei fazer com autonomia.
