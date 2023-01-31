@@ -14,7 +14,7 @@
 
 ## Contatos:
 E-mail: andresilva01@protonmail.com \
-LinkedIn: [Link](https://www.linkedin.com/in/carolina-margiotti-703897193/)
+LinkedIn: [Link](https://www.linkedin.com/in/andr%C3%A9-da-silva-e-silva-63a4621ba/)
 
 ## Introdução  
 <div>
