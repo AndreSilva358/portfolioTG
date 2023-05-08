@@ -55,6 +55,12 @@ Após me formar em 2018, prestei vestibular durante dois anos, entrando na Fatec
 #### *Parceiro Acadêmico: Fatec*
 - [Nox](API5.md)
 
+### Em 2023-1
+
+#### *Parceiro Acadêmico: J.P Morgan*
+- [MoneyMind](API6.md)
+
+
 # Principais Conhecimentos
 
 | Ferramenta | Nível |
