@@ -5,7 +5,7 @@
         - [Empresa](#empresa)
         - [Problema](#problema)
         - [Solução](#solução)
-        - [Aplicação](#site)
+        - [Aplicação](#aplicação)
         - [Tecnologias utilizadas](#tecnologias-utilizadas)
         - [Contribuições Pessoais](#contribuições-pessoais)
             - [Hard Skills](#hard-skills)
@@ -36,11 +36,11 @@ Criação de uma single application para análise e comparação de dados de ban
 
 ### Aplicação
 <p> 
-<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/AppCriandoOcorrencia.gif" alt="Demonstração do projeto"/>
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/sprint1.gif"/>
 
 
 <p> 
-<img src="https://github.com/Jonathan-Assis/API-5-OP-2022-2/blob/main/Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%202/Imagens/AppEditarPerfilExcluirConta.gif" alt="Demonstração do projeto"/>
+<img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/sprint2.gif"/>
 
 
 ## Tecnologias Utilizadas
@@ -59,19 +59,28 @@ Framework para Java que facilita a criação usando módulos independentes.
 Sistema gerenciador de banco de dados relacional utilizado no projeto para gerenciar e manipular os dados necessários para o funcionamento do aplicativo, como armazenamento de instituições financeiras e serviços. do projeto.
 - TensorFlow \
 Biblioteca de código aberto compatível com Python para computação numérica, usada na IA para aprendizado de máquina.
+- Scikit Learn \
+Scikit-learn é uma biblioteca de aprendizado de máquina para a Python, usada na IA para aprendizado de máquina.
+   
 ## Contribuições Pessoais
 
 Fiquei responsável pela prototipação da aplicação no Figma, pelo levantamento de requisitos e definição das tarefas a serem realizadas, pela tela de cadastro e pelo sistema de login. Além da comunicação constante com o cliente, e criação das apresentações.
 
 ### Hard Skills
-- Figma: Sei fazer com autonomia.
 - Vue: Sei fazer com autonomia.
-- TypeScript: Sei fazer com autonomia.
 - PostgreSQL: Sei fazer com ajuda.
 - Python: Sei fazer com autonomia.
-
+- Spring: Sei fazer com ajuda
+- TensorFlow: Sei fazer com ajuda
+- TypeScript: Sei fazer com autonomia.
+  
 ### Soft Skills
 - Comunicação:
 <p align="justify">
 Para levantar os requisitos com o cliente, discutir acerca do desenvolvimento do produto e receber feedback, fez-se necessária uma comunicação de qualidade, clara e frequente.
+</p>
+
+- Trabalho em equipe:
+<p align="justify">
+Me juntei a um novo grupo neste semestre, e por meio do trabalho em equipe pude me adaptar a esse novo grupo.
 </p>
