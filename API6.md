@@ -16,8 +16,7 @@
 
 ## Empresa
 <p align="justify">
-No sexto semestre a empresa parceira foi a J.P Morgan. O J.P. Morgan oferece serviços como: Investment Bank, Global Corporate Bank, Asset Management, Private Banking e Treasury & Securities Services.
-
+A empresa deste projeto é um banco reconhecido internacionalmente conhecido, e que não deseja ser identificado por motivos de compliance. É um banco com ampla experiência no setor financeiro, reconhecido por sua competência e inovação. O banco oferece uma ampla quantidade de serviços financeiros com segurança com dados dos clientes e transparência em suas atividades.
 
 
 ## Problema
