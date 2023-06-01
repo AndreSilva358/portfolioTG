@@ -65,9 +65,13 @@ Após me formar em 2018, prestei vestibular durante dois anos, entrando na Fatec
 
 | Ferramenta | Nível |
 | --------- | -------- |
+| Figma | Intermediário |
 | HTML | Intermediário |
 | CSS | Básico |
 | Javascript | Intermediário |
 | React Native| Intermediário |
 | Typescript | Básico |
 | Python | Básico |
+| Vue | Básico |
+| Postman | Básico |
+| MYSQL | Básico |
