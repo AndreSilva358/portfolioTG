@@ -5,7 +5,7 @@
         - [Empresa](#empresa)
         - [Problema](#problema)
         - [Solução](#solução)
-        - [Site](#site)
+        - [Aplicação](#aplicação)
         - [Tecnologias utilizadas](#tecnologias-utilizadas)
         - [Contribuições Pessoais](#contribuições-pessoais)
             - [Hard Skills](#hard-skills)
@@ -45,8 +45,11 @@ Framework para frontend, foi utilizado como base da aplicação o Material UI Da
 
 
 Backend:
+- Node.js \
+Utilizado pelo foco no desenvolvimento relacionado ao servidor;
 - TypeScript  \
 Ferramenta para desenvolvimento do backend, utilizado para rodar o servidor Node.js
+
 
 ## Contribuições Pessoais
 
