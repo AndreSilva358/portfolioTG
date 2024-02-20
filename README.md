@@ -1,20 +1,20 @@
 # Sumário
 
 * [Sobre o autor](#introdução)
+* [Contato](#contato)
 * [Primeiro Semestre - ](#em-2020-2)
 * [Segundo Semestre - ](#em-2021-1)
 * [Terceiro Semestre - ](#em-2021-2)
 * [Quarto Semestre - ](#em-2022-1)
 * [Quinto Semestre - ](#em-2022-2)
 * [Sexto Semestre - ](#em-2023-1)
-* [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
-* [Contato](#contato)
+* [Principais Conhecimentos](#principais-conhecimentos)
 
 # André Silva
 
-## Contatos:
+## Contato:
 E-mail: andresilva01@protonmail.com \
-LinkedIn: [Link](https://www.linkedin.com/in/andr%C3%A9-da-silva-e-silva-63a4621ba/)
+LinkedIn: [Link](https://www.linkedin.com/in/andre-silva-silva/)
 
 ## Introdução  
 <div>
