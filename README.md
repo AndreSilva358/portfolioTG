@@ -8,7 +8,7 @@
 * [Fourth Semester - ](#em-2022-1)
 * [Fifth Semester - ](#em-2022-2)
 * [Sixth Semester - ](#em-2023-1)
-* [Skills](#main-knowledge)
+* [Skills](#skills)
 
 # André Silva
 
